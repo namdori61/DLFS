@@ -1,4 +1,5 @@
 from Module.Activation import Sigmoid
+from Module.Linear import Dense
 
 
-__all__ = ['Sigmoid']
+__all__ = ['Dense', 'Sigmoid']
